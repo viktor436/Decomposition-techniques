@@ -21,9 +21,10 @@ Each technique includes Python implementations and intuitive 2D/3D visualization
 ## Dependencies
 
 Before running the notebook, make sure you have the following Python packages installed:
+`numpy`, `pandas`, `matplotlib`, `seaborn`, `scikit-learn`, `scikit-image`, and `umap-learn`.
 
 ```bash
-pip install numpy pandas matplotlib scikit-learn umap-learn
+pip install numpy pandas matplotlib seaborn scikit-learn scikit-image umap-learn
 ```
 
 ## Usage
